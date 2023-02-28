@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/romeFunFact/static/css/main.c32d36d0.css",
+    "main.js": "/romeFunFact/static/js/main.58a084a0.js",
+    "static/js/787.befb40cc.chunk.js": "/romeFunFact/static/js/787.befb40cc.chunk.js",
+    "static/media/Trevi-Fountain.webp": "/romeFunFact/static/media/Trevi-Fountain.785736ad034e44838c66.webp",
+    "static/media/colosseum_in_rome.webp": "/romeFunFact/static/media/colosseum_in_rome.b25085b5e49034fd89b2.webp",
+    "static/media/Triumphs-of-Caesar.jpg": "/romeFunFact/static/media/Triumphs-of-Caesar.b902524e0e7f6d6819d6.jpg",
+    "index.html": "/romeFunFact/index.html",
+    "main.c32d36d0.css.map": "/romeFunFact/static/css/main.c32d36d0.css.map",
+    "main.58a084a0.js.map": "/romeFunFact/static/js/main.58a084a0.js.map",
+    "787.befb40cc.chunk.js.map": "/romeFunFact/static/js/787.befb40cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32d36d0.css",
+    "static/js/main.58a084a0.js"
+  ]
+}
